@@ -35,6 +35,8 @@ Overall, building this Node.js project provided me with invaluable hands-on expe
 
 Run the app to generate a quick SVG file for use on your website.
 
+[Link to video demo](https://drive.google.com/file/d/1vjfhk6Yqdu1rK2mWlXZgyJtzfDzPEmsk/view)
+
 ![screenshot of SVG](./assets/images/screenshot.png)
 
 ## License
